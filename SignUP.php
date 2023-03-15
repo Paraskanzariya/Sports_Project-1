@@ -12,7 +12,7 @@
 </head>
 
 <body>
-<form action="#" method="POST">
+<form action="SignUp.php" method="POST">
     <div class="box">
         <div class="left">
             <div class="overlay">
